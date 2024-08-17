@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@redocly/openapi-cli": "1.0.0-beta.79",
-    "redoc-cli": "0.13.2"
+    "redoc-cli": "0.13.2",
+    "yarn": "^1.22.22"
   }
 }
